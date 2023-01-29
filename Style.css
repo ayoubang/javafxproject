@@ -1,0 +1,52 @@
+
+.mybutton {
+    -fx-graphic: url("../Images/Exit.png")
+}
+.mybutton2 {
+-fx-graphic: url("../Images/Personicon.png");
+ -fx-background-color: linear-gradient(to top, #C71585	, #A52A2A);
+
+}
+
+.mybutton4 {
+-fx-graphic: url("../Images/Cart.png");
+ -fx-background-color: linear-gradient(to top, #C71585	, #A52A2A);
+
+}
+
+.mybutton3 {
+-fx-graphic: url("../Images/Menuicon.png");
+ -fx-background-color: linear-gradient(to top, #C71585	, #A52A2A);
+}
+.mybutton5 {
+-fx-graphic: url("../Images/Carticons.png");
+ -fx-background-color: linear-gradient(to top, #C71585	, #A52A2A);
+}
+
+.mybutton6 {
+-fx-graphic: url("../Images/Carticon.png");
+ -fx-background-color: linear-gradient(to top, #C71585	, #A52A2A);
+}
+
+.HomePage-bg{
+     -fx-background-color: linear-gradient(to right bottom, #ff6201, #fb7a30, #f68e51, #efa171, #e7b291, #daad9a, #c9aaa1, #b6a7a5, #9b9091, #7f7a7d, #666466, #4f4f4f);
+	  
+	 
+}
+.slider-bg{
+     -fx-background-color: linear-gradient(to left top, #ff6201, #fb7a30, #f68e51, #efa171, #e7b291, #daad9a, #c9aaa1, #b6a7a5, #9b9091, #7f7a7d, #666466, #4f4f4f);
+}
+
+.button:hover{
+-fx-background-color : #FFBB3B;
+}
+.button:pressed
+{
+-fx-background-color : #DEDBD9;
+}
+
+
+.increment-button, .decrement-button {
+    -fx-background-color: transparent;
+    -fx-border-color: transparent;
+}
